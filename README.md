@@ -1,4 +1,4 @@
-## Oooi! Eu sou a Kauan Silva de Sousa <img align="center" alt="Kauan-Pepe" height="60" width="80" src="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">
+## Oooi! Eu sou a Kauan Silva de Sousa <img align="center" alt="Kauan-Pepe" height="60" width="80" src="https://media.tenor.com/images/2f071cab07e5ddac7224f1ff3d8cccf2/tenor.gif">
 <a href="https://github.com/Silva4g">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Silva4g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Silva4g&layout=compact&langs_count=8&theme=dracula"/>
