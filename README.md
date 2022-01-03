@@ -1,4 +1,4 @@
-## Oooi! Eu sou a Kauan Silva de Sousa <img align="center" alt="Kauan-Pepe" height="50" width="60" src="https://media.tenor.com/images/2f071cab07e5ddac7224f1ff3d8cccf2/tenor.gif" style="max-width:100%;margin-left: 20px;">
+## Salve!! Eu sou a Kauan Silva <img align="center" alt="Kauan-Pepe" height="50" width="60" src="https://media.tenor.com/images/2f071cab07e5ddac7224f1ff3d8cccf2/tenor.gif" style="max-width:100%;margin-left: 20px;">
 <div style="display: flex">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Silva4g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Silva4g&layout=compact&langs_count=8&theme=dracula"/>
